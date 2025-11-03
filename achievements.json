@@ -1,0 +1,59 @@
+{
+  "unlocked": {
+    "first_blood": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "初出茅庐",
+      "desc": "完成第一局游戏",
+      "icon": "🎮"
+    },
+    "survivor": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "生存专家",
+      "desc": "单局生存时间超过3分钟",
+      "icon": "⏱️"
+    },
+    "food_master": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "美食家",
+      "desc": "单局吃到50个食物",
+      "icon": "🍎"
+    },
+    "centurion": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "百分达人",
+      "desc": "单局得分超过100分",
+      "icon": "💯"
+    },
+    "five_hundred": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "五百俱乐部",
+      "desc": "单局得分超过500分",
+      "icon": "🎯"
+    },
+    "thousand_club": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "千分王者",
+      "desc": "单局得分超过1000分",
+      "icon": "👑"
+    },
+    "night_owl": {
+      "unlocked_at": "2025-10-27 22:09:22",
+      "name": "夜猫子",
+      "desc": "在晚上10点后玩游戏",
+      "icon": "🌙"
+    }
+  },
+  "stats": {
+    "games_played": 45,
+    "total_score": 18076,
+    "total_time": 1084,
+    "best_score": 3405,
+    "best_survival_time": 211,
+    "max_food_in_game": 63,
+    "best_food_efficiency": 0.4186046511627907,
+    "longest_session": 211,
+    "played_morning": false,
+    "played_night": true,
+    "consecutive_growth": 0
+  }
+}
